@@ -1,10 +1,3 @@
-Got it — thanks for the clear feedback. I’ll rewrite the report for **Lab 1** with a **more detailed step-by-step procedure**, better **technical depth**, and clear structure in every section. Let's refine this properly.
-
----
-
-### 📄 Revised: `01-hidden-data-sqli.md`
-
-````markdown
 # 1. SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
 
 ## 2. CVSS Score
